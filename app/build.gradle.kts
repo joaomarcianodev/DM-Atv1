@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.contador"
+    namespace = "com.jams.contador"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.contador"
+        applicationId = "com.jams.contador"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

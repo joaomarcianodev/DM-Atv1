@@ -20,7 +20,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="monospace"
-            android:text="0"
+            android:text="@string/app_contador"
             android:textColor="#403E3E"
             android:textSize="150sp"
             app:layout_constraintBottom_toTopOf="@+id/btnAumentar"
